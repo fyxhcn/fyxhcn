@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search> 
+  
+  
+    
+    <entry>
+      <title>Hello World</title>
+      <link href="/posts/16107/"/>
+      <url>/posts/16107/</url>
+      
+        <content type="html"><![CDATA[<h2 id="测试文章"><a href="#测试文章" class="headerlink" title="测试文章"></a>测试文章</h2><p>测试内容测试内容测试内容</p><p>Hello World ！</p>]]></content>
+      
+      
+      <categories>
+          
+          <category> hello world </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> hello world </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+  
+  
+</search>
